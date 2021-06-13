@@ -1,4 +1,4 @@
-# Hi , I,m Oğuzhan form Kocaeli / Turkey
+# Hi , I'm Oğuzhan form Kocaeli / Turkey
 
 Game Development Student of Mobile Game Bootcamp V by Kodluyoruz & Patika.dev
 
