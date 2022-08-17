@@ -11,7 +11,7 @@
 ## ✉️ How to contact me
  [![Hotmail](https://i.ibb.co/xsG8Ncr/hotmail-1.png) oguzhanozogul@hotmail.com](https://www.hotmail.com)
  
- ![Linkedin](https://i.ibb.co/p6Hsswd/linkedin-1.png) Oğuzhan Özoğul](https://www.linkedin.com/in/oguzhan-ozogul)
+ ![Linkedin](https://i.ibb.co/p6Hsswd/linkedin-1.png) Oğuzhan Özoğul] (https://www.linkedin.com/in/oguzhan-ozogul)
  
  [![Discord](https://i.ibb.co/LY0rmr5/dc.png) Oğuzhan Özoğul#7301](https://discordapp.com/users/310060372964933633/)
  
