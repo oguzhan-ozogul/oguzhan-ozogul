@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Oğuzhan form Kocaeli / Turkey
-<h2 align="center"> Game Development Student of Mobile Game Bootcamp V by Kodluyoruz & Patika.dev
+<h2 align="center"> Game Artist Student of Mobile Game Bootcamp V by Kodluyoruz & Patika.dev
   
  ---
 ## I’m currently learning
