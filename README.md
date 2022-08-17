@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Oğuzhan form Kocaeli / Turkey
-<h2 align="center"> Game Artist Student of Mobile Game Bootcamp V by Kodluyoruz & Patika.dev
+<h2 align="center"> Game Artist
   
  ---
 ## I’m currently learning
@@ -9,6 +9,7 @@
 ![Blender](https://i.ibb.co/YpbFLVr/Background-2.png)
 
 ## ✉️ How to contact me
+ [![Hotmail](https://i.ibb.co/xsG8Ncr/hotmail-1.png) Oğuzhan Özoğul](oguzhanozogul@hotmail.com)
   
  [![Instagram](https://i.ibb.co/VBFN4DG/instagram-1.png) Oğuzhan Özoğul](https://www.instagram.com/oguzhanozog/)
   
