@@ -6,7 +6,7 @@
   
 ![Csharp](https://i.ibb.co/fQHDQRp/Background.png)
 ![Unity](https://i.ibb.co/qCnfWw9/Background-1.png)
-![Blender](https://i.ibb.co/rxDZKCV/Background-2.png)
+![Blender](https://i.ibb.co/YpbFLVr/Background-2.png)
 
 ## ✉️ How to contact me
   
