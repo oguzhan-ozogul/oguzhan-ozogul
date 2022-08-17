@@ -17,7 +17,7 @@
  
 📷 Social Media
 
- [![Instagram](https://i.ibb.co/VBFN4DG/instagram-1.png) Oğuzhan Özoğul](https://www.instagram.com/oguzhanozog/)
+ [![Instagram](https://i.ibb.co/VBFN4DG/instagram-1.png) Oğuzhan Özoğul](https://www.instagram.com/oguzhan_ozogul/)
   
  [![Facebook](https://i.ibb.co/QC9Vp8M/fb.png) Oğuzhan Özoğul](https://www.facebook.com/oguzhanozog/)
    
