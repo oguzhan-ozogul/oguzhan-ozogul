@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Oğuzhan form Kocaeli / Turkey
+<h1 align="center">Hi , I'm Oğuzhan from Kocaeli / Turkey
 <h2 align="center"> Game Artist
   
  ---
